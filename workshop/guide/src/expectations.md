@@ -1,11 +1,7 @@
 # What to expect
-This book is divided into the following parts
+This is a workbook accompanying a crochet workshop.
 
-* Introduction
-* Appendices
+Crochet is a craft that offers a creative tactile experience.
 
-## Introduction
-In the introduction part we will set the scene and talk about the our goals.
-
-## Appendices
-The appendices are there to provide context that are not naturally placed within the guide. They can be used as a resource for future studies and sometimes inspiration.
+In this workshop you will learn and practice crochet with the goal of creating a
+key-chain mascot of your favorite language.

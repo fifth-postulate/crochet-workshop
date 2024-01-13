@@ -1,2 +1,2 @@
 # Crochet Workshop
-## Create own language mascot
+## Create your own language mascot
