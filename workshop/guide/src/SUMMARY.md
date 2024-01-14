@@ -19,3 +19,4 @@
 
 # Appendices
 * [Sources](./appendix/sources.md)
+* [Pattern](./appendix/pattern.md)
