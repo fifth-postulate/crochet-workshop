@@ -17,6 +17,6 @@ I started to study _hyperbolic geometry_ and came across the book
 on understanding hyperbolic geometry
 
 I took up crocheting to better understand hyperbolic geometry and instantly fell
-in love. Crocheting is a wholesome, tactile activity that is places you in the moment.
+in love. Crocheting is a wholesome, tactile activity that places you in the moment.
 It is this love that I would like to share with you.
 And how better to do that then by expressing an interest.
