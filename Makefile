@@ -1,12 +1,13 @@
 ARCHIVE=workshop-material.tar.gz
 MATERIAL_DIR=build
 WEBPAGE_DIR=public
+DOCUMENTATION=docs/workshop
 SUB_DIRECTORIES=workshop resources
 CLEAN_TARGETS=$(addsuffix clean,$(SUB_DIRECTORIES))
 
 .PHONY: all clean ${SUB_DIRECTORIES} ${CLEAN_TARGETS}
 
-all: ${ARCHIVE} ${WEBPAGE_DIR} docs/workshop
+all: ${ARCHIVE} ${WEBPAGE_DIR} ${DOCUMENTATION}
 ${ARCHIVE}: ${MATERIAL_DIR} 
 	tar cvfz $@ $<
 
@@ -28,12 +29,12 @@ ${WEBPAGE_DIR}: ${MATERIAL_DIR} ${ARCHIVE}
 	cp -rf $</presentation $@/presentation
 	cp resources/public/* $@/
 
-docs/workshop: ${WEBPAGE_DIR}
+${DOCUMENTATION}: ${WEBPAGE_DIR}
 	mkdir -p $@
 	cp -rf $</* $@
 
 clean: ${CLEAN_TARGETS}
-	rm -rf ${ARCHIVE} ${MATERIAL_DIR} ${WEBPAGE_DIR} docs/workshop
+	rm -rf ${ARCHIVE} ${MATERIAL_DIR} ${WEBPAGE_DIR} ${DOCUMENTATION}
 
 %clean: %
 	${MAKE} -C $< clean
