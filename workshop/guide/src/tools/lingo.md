@@ -37,14 +37,14 @@ Each row has:
 * A number, indicating the number of stitches in the row once finished.
 
 The number of stitches in the pattern serves as a sort of check digit to
-signal if you made a mistake some were along the row.
+signal if you made a mistake somewhere along the row.
 
 For a for a formal grammar see the appendices.
 
 ## Assembly
-Often a pattern consists of discreet parts. Two legs, two wings, the main body
-and the head could have been crochet individually and need to be sewn together
+Often a pattern consists of discrete parts. Two legs, two wings, the main body
+and the head could have been crocheted individually and need to be sewn together
 to form a chicken, for example.
 
-With broad strokes this is what a pattern is. A description how to create a
+With broad strokes this is what a croechet pattern is. A description how to create a
 certain project.
