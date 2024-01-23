@@ -6,6 +6,6 @@ you have the oppertunity to learn about and practice crochet.
 
 If you already are comfortable with crocheting, head over to the projects.
 
-Want to practice the art of crochet, learn about the tools
+Want to practice the art of crochet, learn about the tools.
 
 Otherwise come along a gentle introduction and a bit of history.
