@@ -13,6 +13,7 @@
 
 # Practice
 * [Makes perfect](./practice/perfect.md)
+* [Square](./practice/square.md)
 
 # Projects
 * [How To](./projects/howto.md)
