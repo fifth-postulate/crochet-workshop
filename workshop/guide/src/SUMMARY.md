@@ -15,6 +15,7 @@
 * [Makes perfect](./practice/perfect.md)
 * [Square](./practice/square.md)
 * [Circle](./practice/circle.md)
+* [Sphere](./practice/sphere.md)
 
 # Projects
 * [How To](./projects/howto.md)
