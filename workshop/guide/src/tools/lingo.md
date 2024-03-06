@@ -46,5 +46,5 @@ Often a pattern consists of discrete parts. Two legs, two wings, the main body
 and the head could have been crocheted individually and need to be sewn together
 to form a chicken, for example.
 
-With broad strokes this is what a croechet pattern is. A description how to create a
+With broad strokes this is what a crochet pattern is. A description how to create a
 certain project.

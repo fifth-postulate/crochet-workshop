@@ -3,7 +3,7 @@ authors = ["Felienne Hermans", "Rico Hermans", "Daan van Berkel"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Crochet Workshop"
+title = "Yarn Craft Workshop"
 
 [output.html]
 mathjax-support = true
