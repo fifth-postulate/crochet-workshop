@@ -19,6 +19,14 @@
 
 # Projects
 * [How To](./projects/howto.md)
+* [Atuin](./projects/atuin.md)
+* [Docker](./projects/docker.md)
+* [Go](./projects/go.md)
+* [Linux](./project/linux.md)
+* [PHP](./projects/php.md)
+* [Python](./projects/python.md)
+* [Rubber Duck](./projects/rubber-duck.md)
+* [Rust](./projects/rust.md)
 
 # Appendices
 * [Sources](./appendix/sources.md)
