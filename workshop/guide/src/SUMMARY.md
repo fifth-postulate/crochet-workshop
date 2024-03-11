@@ -11,6 +11,15 @@
 # Tools
 * [Lingo](./tools/lingo.md)
 * [Instructions](./tools/instructions.md)
+* [Magic Ring](./tools/mr.md)
+* [Slip Knot](./tools/slk.md)
+* [Slip Stitch](./tools/slst.md)
+* [Chain](./tools/ch.md)
+* [Single Crochet](./tools/sc.md)
+* [Double Crochet](./tools/dc.md)
+* [Half-double Crochet](./tools/hdc.md)
+* [Increase](,/tools/inc.md)
+* [Decrease](./tools/dec.md)
 
 # Practice
 * [Makes perfect](./practice/perfect.md)

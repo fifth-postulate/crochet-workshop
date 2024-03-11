@@ -14,12 +14,12 @@ Any color yarn, hook 4.5mm
 4) (sc 2, in) 6 (24)
 5) (sc 3, in) 6 (30)
 6-8) sc 30 (30)
-9) (sc 3, dc) 6 (24)
-10) (sc 2, dc) 6 (18)
+9) (sc 3, dec) 6 (24)
+10) (sc 2, dec) 6 (18)
 
 stuff liberally
 
-11) (sc, dc) 6 (12)
+11) (sc, dec) 6 (12)
 12) dc 6 (6)
 
 cut sufficient yarn to close project. 
