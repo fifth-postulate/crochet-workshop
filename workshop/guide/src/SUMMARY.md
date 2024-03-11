@@ -10,6 +10,7 @@
 
 # Tools
 * [Lingo](./tools/lingo.md)
+* [Instructions](./tools/instructions.md)
 
 # Practice
 * [Makes perfect](./practice/perfect.md)
