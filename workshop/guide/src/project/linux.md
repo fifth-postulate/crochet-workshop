@@ -1,6 +1,6 @@
 # Linux
 
-![Tux; the official brand character of the Linux kernel ](https://en.wikipedia.org/wiki/File:Tux.svg)
+![Tux; the official brand character of the Linux kernel ](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
 
 > Tux is a penguin character and the official brand character of the Linux kernel.
 > Originally created as an entry to a Linux logo competition, Tux is the most
