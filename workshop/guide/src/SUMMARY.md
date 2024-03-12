@@ -20,6 +20,8 @@
 * [Half-double Crochet](./tools/hdc.md)
 * [Increase](,/tools/inc.md)
 * [Decrease](./tools/dec.md)
+* [Tention](./tools/tention.md)
+* [Color Change](./tools/color-change.md)
 
 # Practice
 * [Makes perfect](./practice/perfect.md)
