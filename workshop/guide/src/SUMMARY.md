@@ -23,6 +23,7 @@
 
 # Practice
 * [Makes perfect](./practice/perfect.md)
+* [Drills](./practice/drills.md)
 * [Square](./practice/square.md)
 * [Circle](./practice/circle.md)
 * [Sphere](./practice/sphere.md)
