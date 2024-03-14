@@ -18,7 +18,7 @@
 * [Single Crochet](./tools/sc.md)
 * [Double Crochet](./tools/dc.md)
 * [Half-double Crochet](./tools/hdc.md)
-* [Increase](,/tools/inc.md)
+* [Increase](./tools/inc.md)
 * [Decrease](./tools/dec.md)
 * [Tention](./tools/tention.md)
 * [Color Change](./tools/color-change.md)
